@@ -12,6 +12,9 @@ Estudante de Desenvolvimento de Sistemas na Etec, buscando uma oportunidade de e
 
 ---
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 ## Sobre mim
 
 Gosto de transformar ideias em projetos web e aprender construindo. Tenho explorado Python, JavaScript, C# e Node.js, com projetos que vão de plataformas de séries a uma biblioteca digital.
@@ -26,7 +29,7 @@ Plataforma para descobrir e avaliar séries, com perfis, avaliações e feed de 
 ### [Biblioteca Digital](https://github.com/GustavoHSS-git/tcc-liblioteca)
 Projeto de TCC para explorar e ler livros em uma biblioteca digital.
 
-[Ver projeto publicado](https://tcc-livraria.vercel.app/)
+
 
 `JavaScript` `CSS` `HTML` `Supabase`
 
