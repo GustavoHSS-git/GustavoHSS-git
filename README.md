@@ -1,119 +1,99 @@
-# Gustavo Henrique Silva Santos
-
 <div align="center">
 
-# 👨‍💻 Gustavo Henrique
-
-### Desenvolvedor em Formação | Full Stack Development
-
-📍 Birigui, São Paulo, Brasil
-
-**Transformando ideias em projetos e aprendendo tecnologia na prática.**
-
-Estudante de Desenvolvimento de Sistemas na Etec, interessado em desenvolvimento web, criação de sistemas e integração com bancos de dados e APIs. Busco uma oportunidade de estágio ou Jovem Aprendiz em TI para desenvolver minhas habilidades e contribuir com projetos reais.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-a5b940357)
-[![GitHub](https://img.shields.io/badge/GitHub-Meus_Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoHSS-git)
+# Gustavo Henrique Silva Santos
 
 </div>
 
----
+### Desenvolvedor em formação | Desenvolvimento Web & Backend
 
-## 🧑‍💻 Sobre mim
+Desenvolvedor em formação com experiência prática em projetos acadêmicos envolvendo aplicações web, APIs, bancos de dados e funcionalidades de autenticação. Busco uma oportunidade de estágio ou Jovem Aprendiz em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.
+ <div align="center">
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas na Etec**.
-- 💻 Interessado em desenvolvimento web e criação de aplicações.
-- 🚀 Aprendendo por meio de projetos práticos e desafios de programação.
-- 🗄️ Explorando bancos de dados, autenticação de usuários e integração com APIs.
-- 🤝 Aberto a oportunidades de estágio, Jovem Aprendiz e colaboração em projetos.
+[![GitHub](https://img.shields.io/badge/GitHub-GustavoHSS--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoHSS-git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-a5b940357)
 
-Meu objetivo é evoluir continuamente como desenvolvedor, construindo soluções funcionais e aprimorando minhas habilidades técnicas.
+</div>
 
-## 🚀 Projetos em destaque
+##  Stack técnica
 
-### 📺 [SeriesBox](https://github.com/GustavoHSS-git/tcc-blues-ries)
-
-Plataforma desenvolvida para descobrir e avaliar séries, com recursos voltados à interação entre usuários.
-
-**Principais funcionalidades:**
-- Perfis de usuários.
-- Avaliações de séries.
-- Feed de atividades recentes.
-
-**Tecnologias utilizadas:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**[→ Acessar repositório](https://github.com/GustavoHSS-git/tcc-blues-ries)**
-
----
-
-### 📚 [Biblioteca Digital](https://github.com/GustavoHSS-git/tcc-liblioteca)
-
-Projeto de TCC voltado à criação de uma biblioteca digital, permitindo explorar e ler livros em um ambiente web.
-
-**Tecnologias utilizadas:**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
 
-**[→ Acessar repositório](https://github.com/GustavoHSS-git/tcc-liblioteca)**
 
----
+**Backend & APIs**
 
-## 🛠️ Tecnologias e ferramentas
-
-### Linguagens
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Estudando-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
-![Python](https://img.shields.io/badge/Python-Estudando-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-Estudando-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Desenvolvimento web e backend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-555555?style=flat-square&logo=fastapi&logoColor=white)
 
-### Bancos de dados e serviços
+
+**Bancos de dados & serviços**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-*As tecnologias estão em diferentes estágios de aprendizado e aplicação prática.*
+---
+
+##  Projetos em destaque
+
+### SeriesBox — Plataforma de avaliação de séries
+
+Aplicação web voltada à descoberta e avaliação de séries, com funcionalidades de usuários e interação entre membros da plataforma.
+
+- Perfis de usuários e avaliações.
+- Feed de atividades recentes.
+- Desenvolvimento de funcionalidades de aplicação web.
+
+**Tecnologias:** `JavaScript` `Node.js` `Express` `SQLite`
+
+[**Ver código-fonte →**]([https://github.com/GustavoHSS-git/tcc-blues-ries])
+
 
 ---
 
-## 📊 Estatísticas do GitHub
+### Biblioteca Digital — Projeto de TCC
+
+Aplicação web desenvolvida para explorar e ler livros em uma biblioteca digital.
+
+- Interface construída com tecnologias web.
+- Integração com Supabase.
+- Organização de funcionalidades voltadas à experiência de leitura.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript` `Supabase`
+
+[**Ver código-fonte →**](https://github.com/GustavoHSS-git/tcc-liblioteca)
+
+---
+
+## Competências técnicas
+
+- **Desenvolvimento web:** construção de interfaces com HTML, CSS e JavaScript.
+- **Backend:** desenvolvimento de funcionalidades com Node.js e Express.
+- **Banco de dados:** utilização de MySQL, SQLite e Supabase em projetos.
+- **Integração:** consumo de APIs e conexão entre componentes de aplicações.
+- **Funcionalidades de sistemas:** CRUD e autenticação de usuários em projetos práticos.
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoHSS-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Gustavo" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GustavoHSS-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHSS-git&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas nos repositórios de Gustavo" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHSS-git&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens dos repositórios" />
 
 </div>
 
 ---
 
-## 🎯 Objetivo profissional
+##  Objetivo
 
-Busco minha primeira oportunidade profissional na área de Tecnologia da Informação, onde possa aplicar meus conhecimentos, aprender com outros desenvolvedores e contribuir para a construção de soluções tecnológicas.
+**Oportunidades de estágio e Jovem Aprendiz em TI**, com foco em desenvolvimento de software, aplicações web e backend.
 
-<div align="center">
+Aberto a aprender novas tecnologias, colaborar em equipe e contribuir para projetos reais.
 
-### 🤝 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-a5b940357)
-[![GitHub](https://img.shields.io/badge/Explore_meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoHSS-git)
-
-**Sempre aprendendo. Sempre construindo. Sempre evoluindo.** 🚀
-
-</div>
