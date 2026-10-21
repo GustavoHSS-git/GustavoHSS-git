@@ -1,46 +1,94 @@
-<div align="center">
+ <div align="center">
 
 # Gustavo Henrique Silva Santos
 
+### Desenvolvedor em formação | Web & Backend
+
+Desenvolvedor em formação com experiência prática em projetos acadêmicos envolvendo aplicações web, APIs, bancos de dados e autenticação. Busco uma oportunidade de estágio ou Jovem Aprendiz em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.
+
+<p align="center">
+  <a href="https://github.com/GustavoHSS-git">
+    <img src="https://img.shields.io/badge/GitHub-GustavoHSS--git-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-santos-a5b940357">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 </div>
-
-### Desenvolvedor em formação | Desenvolvimento Web & Backend
-
-Desenvolvedor em formação com experiência prática em projetos acadêmicos envolvendo aplicações web, APIs, bancos de dados e funcionalidades de autenticação. Busco uma oportunidade de estágio ou Jovem Aprendiz em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.
- <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-GustavoHSS--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoHSS-git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-a5b940357)
-
-</div>
-
-##  Stack técnica
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-555555?style=flat-square&logo=fastapi&logoColor=white)
-
-
-**Bancos de dados & serviços**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
-##  Projetos em destaque
+## Tecnologias
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" alt="HTML5" title="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" alt="CSS3" title="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap" title="Bootstrap" />
+</p>
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32" alt="PHP" title="PHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" alt="C#" title="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI" title="FastAPI" />
+</p>
+
+### Bancos de Dados & Serviços
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" alt="MySQL" title="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="32" alt="SQLite" title="SQLite" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="32" alt="Supabase" title="Supabase" />
+</p>
+
+### Design & Edição
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/photopea/18A497" width="40" alt="Photopea" title="Photopea" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
+  &nbsp;
+</p>
+
+### Inteligência Artificial
+
+<p align="left">
+ 
+ 
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="Claude" title="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="Google Gemini" title="Google Gemini" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" alt="DeepSeek" title="DeepSeek" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="40" alt="GitHub Copilot" title="GitHub Copilot" />
+</p>
+
+### Desenvolvimento & Testes
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman" title="Postman" />
+</p>
+
+---
+
+## Projetos em destaque
 
 ### SeriesBox — Plataforma de avaliação de séries
 
@@ -48,12 +96,11 @@ Aplicação web voltada à descoberta e avaliação de séries, com funcionalida
 
 - Perfis de usuários e avaliações.
 - Feed de atividades recentes.
-- Desenvolvimento de funcionalidades de aplicação web.
+- Funcionalidades para interação com a plataforma.
 
 **Tecnologias:** `JavaScript` `Node.js` `Express` `SQLite`
 
-[**Ver código-fonte →**]([https://github.com/GustavoHSS-git/tcc-blues-ries])
-
+[**Ver código-fonte →**](https://github.com/GustavoHSS-git/tcc-blues-ries)
 
 ---
 
@@ -73,27 +120,26 @@ Aplicação web desenvolvida para explorar e ler livros em uma biblioteca digita
 
 ## Competências técnicas
 
-- **Desenvolvimento web:** construção de interfaces com HTML, CSS e JavaScript.
+- **Frontend:** desenvolvimento de interfaces com HTML, CSS e JavaScript.
 - **Backend:** desenvolvimento de funcionalidades com Node.js e Express.
-- **Banco de dados:** utilização de MySQL, SQLite e Supabase em projetos.
-- **Integração:** consumo de APIs e conexão entre componentes de aplicações.
-- **Funcionalidades de sistemas:** CRUD e autenticação de usuários em projetos práticos.
+- **Bancos de dados:** utilização de MySQL, SQLite e Supabase.
+- **APIs:** consumo de serviços externos e integração entre aplicações.
+- **Sistemas:** implementação de operações CRUD e autenticação de usuários em projetos práticos.
 
 ---
 
+## Estatísticas do GitHub
+
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GustavoHSS-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHSS-git&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens dos repositórios" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GustavoHSS-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHSS-git&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
 
-##  Objetivo
+## Objetivo profissional
 
-**Oportunidades de estágio e Jovem Aprendiz em TI**, com foco em desenvolvimento de software, aplicações web e backend.
+Busco oportunidades de **estágio ou Jovem Aprendiz em Tecnologia da Informação**, com foco em desenvolvimento de software, aplicações web e backend.
 
-Aberto a aprender novas tecnologias, colaborar em equipe e contribuir para projetos reais.
-
+Tenho interesse em aprender novas tecnologias, colaborar em equipe e contribuir para o desenvolvimento de soluções reais.
