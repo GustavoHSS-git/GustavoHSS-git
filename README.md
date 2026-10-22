@@ -14,7 +14,7 @@ Desenvolvedor em formação com experiência prática em projetos acadêmicos en
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
+ 
 </div>
 
 ---
@@ -44,7 +44,6 @@ Desenvolvedor em formação com experiência prática em projetos acadêmicos en
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" alt="C#" title="C#" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI" title="FastAPI" />
 </p>
 
 ### Bancos de Dados & Serviços
@@ -55,6 +54,7 @@ Desenvolvedor em formação com experiência prática em projetos acadêmicos en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="32" alt="SQLite" title="SQLite" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="32" alt="Supabase" title="Supabase" />
+ <img src="https://avatars.githubusercontent.com/u/1460763?s=200&v=4" width="40" alt="Cloudinary" title="Cloudinary" />
 </p>
 
 ### Design & Edição
