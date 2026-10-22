@@ -77,7 +77,6 @@ Desenvolvedor em formação com experiência prática em projetos acadêmicos en
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" alt="DeepSeek" title="DeepSeek" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="40" alt="GitHub Copilot" title="GitHub Copilot" />
 </p>
 
 ### Desenvolvimento & Testes
@@ -131,8 +130,7 @@ Aplicação web desenvolvida para explorar e ler livros em uma biblioteca digita
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GustavoHSS-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;
+ 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHSS-git&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </div>
 
